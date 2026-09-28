@@ -4,7 +4,7 @@ A spreadsheet-based CRM built in Excel / Google Sheets to manage leads, customer
 
 > **Data note:** all data is synthetic (generated names, `example.com` e-mails, fictional phone numbers). No real customer information is included.
 
-![Dashboard](dashboard/CRM_Dashboard.png)
+![Dashboard](CRM_Dashboard.png)
 
 ## What it does
 
